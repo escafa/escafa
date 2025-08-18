@@ -17,7 +17,7 @@
 ## 🌐 Connect with me:
 <p align="left">
 <!-- Coloque aqui links para LinkedIn, Portfólio, etc. Exemplo: -->
-<a href="https://www.linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seu-linkedin(https://www.linkedin.com/in/victor-escafa-7b98a4185/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ---
