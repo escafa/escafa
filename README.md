@@ -1,16 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou Victor Escafa</h1>
-<h3 align="center">Apaixonado por análise de dados no mundo digital</h3>
+<h3 align="center">Apaixonado por transformar dados brutos em insights empresariais</h3>
 
 ---
 
 ## 💼 Work
-🔭 Atualmente estou trabalhando com **análise e visualização de dados**  
+🔭 Atualmente estou implementando minhas técnicas de **análise e visualização de dados** no meu cargo de propagandista médico
 
 🌱 Atualmente estou aprendendo **Python e Machine Learning**  
 
-💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel**  
-
-📫 Você me acha através do e-mail **vescafa@hotmail.com**
+💬 Me pergunte sobre **SQL, Excel, Power Bi,  Google Data Studio**  
 
 ---
 
